@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keremcs
+- 👋 Hi, I’m Kerem
 - 👀 I’m interested in Economics
 - 🌱 I’m currently learning Stata
 - 💞️ I’m looking to collaborate on Next.js
